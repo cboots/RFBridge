@@ -1,4 +1,4 @@
-update=7/3/2015 6:45:52 PM
+update=7/4/2015 1:45:21 PM
 version=1
 last_client=kicad
 [cvpcb]
@@ -6,12 +6,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[eeschema]
-version=1
-LibDir=D:/KicadLib
-[eeschema/libraries]
-LibName1=Diodes
-LibName2=Passives
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -31,3 +25,33 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.09999999999999999
 ModuleOutlineThickness=0.15
+[eeschema]
+version=1
+LibDir=D:/KicadLib
+[eeschema/libraries]
+LibName1=74xgxx
+LibName2=74xx
+LibName3=atmel
+LibName4=conn
+LibName5=dc-dc
+LibName6=Diodes
+LibName7=discrete_transistors
+LibName8=ftdi
+LibName9=interface
+LibName10=linear
+LibName11=memory
+LibName12=microcontrollers_dspic33dsc
+LibName13=microcontrollers_msp430
+LibName14=microcontrollers_pic10mcu
+LibName15=microcontrollers_pic12mcu
+LibName16=microcontrollers_pic16mcu
+LibName17=microcontrollers_pic18mcu
+LibName18=microcontrollers_pic32mcu
+LibName19=microcontrollers_stm8
+LibName20=microcontrollers_stm32
+LibName21=opto
+LibName22=Passives
+LibName23=power
+LibName24=regulators
+LibName25=sensors
+LibName26=switches
