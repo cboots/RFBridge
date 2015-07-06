@@ -1,11 +1,9 @@
-update=7/4/2015 1:45:21 PM
+update=7/6/2015 8:31:30 AM
 version=1
 last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -55,3 +53,9 @@ LibName23=power
 LibName24=regulators
 LibName25=sensors
 LibName26=switches
+LibName27=D:/KiCadLibraries/device
+LibName28=crystals_oscillators
+LibName29=misc
+LibName30=rf
+[general]
+version=1
