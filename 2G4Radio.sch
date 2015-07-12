@@ -942,4 +942,26 @@ Wire Wire Line
 	3300 2850 3300 2900
 Wire Wire Line
 	3300 2800 3300 2750
+Text Label 3700 3350 0    60   ~ 0
+RF_N
+Text Label 3700 3450 0    60   ~ 0
+RF_P
+Text Label 5750 3350 0    60   ~ 0
+RF1_N
+Text Label 5750 3450 0    60   ~ 0
+RF1_P
+Text Label 5100 4200 1    60   ~ 0
+RF2_P
+Text Label 4900 4200 1    60   ~ 0
+RF2_N
+Text Label 7650 3450 0    60   ~ 0
+ANT1_50
+Text Label 9000 3450 1    60   ~ 0
+ANT2_50
+Text Label 9700 3450 1    60   ~ 0
+ANT3_50
+Text Label 10300 3450 1    60   ~ 0
+ANT4_50
+Text Label 6600 5850 1    60   ~ 0
+ANT5_50
 $EndSCHEMATC
