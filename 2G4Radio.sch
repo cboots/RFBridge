@@ -938,4 +938,8 @@ Connection ~ 2650 2350
 Connection ~ 2750 2350
 Connection ~ 2850 2350
 Connection ~ 2950 2350
+Wire Wire Line
+	3300 2850 3300 2900
+Wire Wire Line
+	3300 2800 3300 2750
 $EndSCHEMATC

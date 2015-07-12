@@ -1,4 +1,4 @@
-update=7/11/2015 11:32:46 AM
+update=7/11/2015 11:34:45 PM
 version=1
 last_client=kicad
 [cvpcb]
@@ -23,8 +23,6 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.09999999999999999
 ModuleOutlineThickness=0.15
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=D:/KicadLib
@@ -58,3 +56,5 @@ LibName26=switches
 LibName27=crystals_oscillators
 LibName28=misc
 LibName29=rf
+[general]
+version=1

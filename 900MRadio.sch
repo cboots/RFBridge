@@ -1415,7 +1415,7 @@ F 3 "" H 3900 3250 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text Label 7050 2200 0    60   ~ 0
-CC11990_VDD_ISO
+VDD_CC1190_ISO
 Wire Wire Line
 	1700 1350 3200 1350
 $Comp
