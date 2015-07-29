@@ -28,12 +28,13 @@ LIBS:switches
 LIBS:crystals_oscillators
 LIBS:misc
 LIBS:rf
+LIBS:microcontrollers_xmc
 LIBS:RFBridge-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 3
+Sheet 1 4
 Title ""
 Date ""
 Rev ""
@@ -127,4 +128,10 @@ F 3 "" H 800 7450 60  0000 C CNN
 	1    800  7450
 	1    0    0    -1  
 $EndComp
+$Sheet
+S 3100 2650 1500 1900
+U 55B8AC40
+F0 "XMC4500" 60
+F1 "XMC4500.sch" 60
+$EndSheet
 $EndSCHEMATC

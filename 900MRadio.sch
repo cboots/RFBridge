@@ -28,12 +28,13 @@ LIBS:switches
 LIBS:crystals_oscillators
 LIBS:misc
 LIBS:rf
+LIBS:microcontrollers_xmc
 LIBS:RFBridge-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 3 3
+Sheet 3 4
 Title ""
 Date ""
 Rev ""
@@ -43,17 +44,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Comp
-L CC1120 U3
-U 1 1 559BFDEE
-P 2100 3850
-F 0 "U3" H 1600 2800 60  0000 C CNN
-F 1 "CC1120" H 2450 2800 60  0000 C CNN
-F 2 "SMD_Packages:RHB_S-PVQFN-N32" H 2100 3850 60  0001 C CNN
-F 3 "" H 2100 3850 60  0000 C CNN
-	1    2100 3850
-	1    0    0    -1  
-$EndComp
 $Comp
 L GND #PWR026
 U 1 1 559BFF7D
@@ -1517,4 +1507,15 @@ Text Label 2800 3850 0    60   ~ 0
 PA
 Text Label 2800 3750 0    60   ~ 0
 TRX
+$Comp
+L CC1200 U3
+U 1 1 55B838F7
+P 2100 3850
+F 0 "U3" H 1600 2800 60  0000 C CNN
+F 1 "CC1200" H 2450 2800 60  0000 C CNN
+F 2 "SMD_Packages:RHB_S-PVQFN-N32" H 2100 3850 60  0001 C CNN
+F 3 "" H 2100 3850 60  0000 C CNN
+	1    2100 3850
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
